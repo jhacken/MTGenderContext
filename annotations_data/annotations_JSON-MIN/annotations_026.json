@@ -1,0 +1,2106 @@
+[
+  {
+    "text": "What you should never do on a plane: Flight attendant reveals airline secrets.",
+    "word": "flight attendant",
+    "id": 87204,
+    "label": [
+      {
+        "end": 53,
+        "text": " Flight attendant",
+        "start": 36,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 77,
+        "text": "secrets",
+        "start": 70,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24354,
+    "created_at": "2024-03-27T12:05:21.756097Z",
+    "updated_at": "2024-04-17T10:19:28.924204Z",
+    "lead_time": 20.064
+  },
+  {
+    "text": "In an Instagram video posted last month, the \"All Too Well\" musician can be seen collaborating with producer Jack Antonoff on the piano.",
+    "word": "musician",
+    "id": 87205,
+    "label": [
+      {
+        "end": 68,
+        "text": "musician",
+        "start": 60,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 59,
+        "text": "All Too Well\"",
+        "start": 46,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 15,
+        "text": "Instagram",
+        "start": 6,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 95,
+        "text": "collaborating ",
+        "start": 81,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24355,
+    "created_at": "2024-03-27T12:05:25.661491Z",
+    "updated_at": "2024-03-27T12:05:25.661527Z",
+    "lead_time": 1.345
+  },
+  {
+    "text": "On Thursday evening, finally, she stepped out onto the court against a top 10 opponent for just the second time of her life.",
+    "word": "opponent",
+    "id": 87206,
+    "label": [
+      {
+        "end": 33,
+        "text": "she",
+        "start": 30,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 124,
+        "text": "her life.",
+        "start": 115,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 86,
+        "text": "opponent",
+        "start": 78,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24356,
+    "created_at": "2024-03-27T12:05:31.266637Z",
+    "updated_at": "2024-03-27T12:05:31.266673Z",
+    "lead_time": 3.814
+  },
+  {
+    "text": "The socialite who got a countess to write a 50-page manual on such things as how full a box of tissues had to be before it was thrown away - half - never noticed the fresh child factory production line of underage girls coming and going.",
+    "word": "socialite",
+    "id": 87207,
+    "label": [
+      {
+        "end": 13,
+        "text": "socialite",
+        "start": 4,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 32,
+        "text": "countess",
+        "start": 24,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 102,
+        "text": "box of tissues",
+        "start": 88,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24357,
+    "created_at": "2024-03-27T12:05:36.763740Z",
+    "updated_at": "2024-03-27T12:05:36.763777Z",
+    "lead_time": 3.432
+  },
+  {
+    "text": "Kensington massage therapist jailed for sexually assaulting clients.",
+    "word": "therapist",
+    "id": 87208,
+    "label": [
+      {
+        "end": 29,
+        "text": " therapist ",
+        "start": 18,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 59,
+        "text": "sexually assaulting",
+        "start": 40,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 18,
+        "text": "massage",
+        "start": 11,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24358,
+    "created_at": "2024-03-27T12:05:38.985022Z",
+    "updated_at": "2024-03-27T12:05:38.985060Z",
+    "lead_time": 0.926
+  },
+  {
+    "text": "One day, she visited a friend who worked as an assistant production coordinator on a set, and she was intrigued by the location department.",
+    "word": "coordinator",
+    "id": 87209,
+    "label": [
+      {
+        "end": 67,
+        "text": " production",
+        "start": 56,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 12,
+        "text": "she",
+        "start": 9,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 29,
+        "text": " friend",
+        "start": 22,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 79,
+        "text": "coordinator",
+        "start": 68,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24359,
+    "created_at": "2024-03-27T12:05:44.343722Z",
+    "updated_at": "2024-03-27T12:05:44.343760Z",
+    "lead_time": 4.154
+  },
+  {
+    "text": "SINGER Matt Goss smooches with his new lover after a dinner date.",
+    "word": "lover",
+    "id": 87210,
+    "label": [
+      {
+        "end": 16,
+        "text": "Matt Goss",
+        "start": 7,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 34,
+        "text": "his",
+        "start": 31,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 44,
+        "text": "lover",
+        "start": 39,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24360,
+    "created_at": "2024-03-27T12:05:47.210248Z",
+    "updated_at": "2024-03-27T12:05:47.210284Z",
+    "lead_time": 1.865
+  },
+  {
+    "text": "It's important if we want to see a future in which a boy could become a midwife or a girl could become a mechanic.",
+    "word": "mechanic",
+    "id": 87211,
+    "label": [
+      {
+        "end": 113,
+        "text": "mechanic",
+        "start": 105,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 89,
+        "text": "girl",
+        "start": 85,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24361,
+    "created_at": "2024-03-27T12:05:51.269160Z",
+    "updated_at": "2024-03-27T12:05:51.269195Z",
+    "lead_time": 1.958
+  },
+  {
+    "text": "But I do pop back as a feature dancer now and then as my fans miss me and I get paid to just hang out in clubs.",
+    "word": "dancer",
+    "id": 87212,
+    "label": [
+      {
+        "end": 37,
+        "text": "dancer",
+        "start": 31,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 30,
+        "text": "feature",
+        "start": 23,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 101,
+        "text": "hang out",
+        "start": 93,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24362,
+    "created_at": "2024-03-27T12:05:54.166120Z",
+    "updated_at": "2024-03-27T12:05:54.166213Z",
+    "lead_time": 1.709
+  },
+  {
+    "text": "There are 52 weeks in a year, my therapist continued matter-of-factly, \"I know you can't go on a date every single week, but how many do you think you should be going on?\"",
+    "word": "therapist",
+    "id": 87213,
+    "label": [
+      {
+        "end": 42,
+        "text": "therapist",
+        "start": 33,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 69,
+        "text": "matter-of-factly",
+        "start": 53,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 101,
+        "text": "date",
+        "start": 97,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24363,
+    "created_at": "2024-03-27T12:05:58.539780Z",
+    "updated_at": "2024-03-27T12:05:58.539817Z",
+    "lead_time": 3.056
+  },
+  {
+    "text": "A health visitor also contacted RBH to raise the issue in July 2020 and an inspection that month found mould in the kitchen, bathroom and a bedroom cupboard needed treatment.",
+    "word": "visitor",
+    "id": 87214,
+    "label": [
+      {
+        "end": 16,
+        "text": "visitor",
+        "start": 9,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 8,
+        "text": "health",
+        "start": 2,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 31,
+        "text": "contacted",
+        "start": 22,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24364,
+    "created_at": "2024-03-27T12:06:08.044948Z",
+    "updated_at": "2024-03-27T12:06:08.044982Z",
+    "lead_time": 8.185
+  },
+  {
+    "text": "Like me, Imogen gets her \"dream job\" and thinks her life is finally starting - but her confidence and happiness is constantly threatened and undermined by a toxic colleague.",
+    "word": "colleague",
+    "id": 87215,
+    "label": [
+      {
+        "end": 162,
+        "text": "toxic",
+        "start": 157,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 24,
+        "text": "her",
+        "start": 21,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 51,
+        "text": "her",
+        "start": 48,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 136,
+        "text": "threatened",
+        "start": 126,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 151,
+        "text": "undermined",
+        "start": 141,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 172,
+        "text": "colleague",
+        "start": 163,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24365,
+    "created_at": "2024-03-27T12:06:14.442274Z",
+    "updated_at": "2024-03-27T12:06:14.442310Z",
+    "lead_time": 5.206
+  },
+  {
+    "text": "In 2018, the billionaire said he couldn't be happy if he wasn't in love with a long-term companion.",
+    "word": "companion",
+    "id": 87216,
+    "label": [
+      {
+        "end": 98,
+        "text": "companion",
+        "start": 89,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 24,
+        "text": "billionaire",
+        "start": 13,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 32,
+        "text": "he",
+        "start": 30,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24366,
+    "created_at": "2024-03-27T12:06:19.664145Z",
+    "updated_at": "2024-03-27T12:06:19.664179Z",
+    "lead_time": 4.096
+  },
+  {
+    "text": "I have a little anecdote regarding [a popular but vaguely dissident Chinese author].",
+    "word": "author",
+    "id": 87217,
+    "label": [
+      {
+        "end": 82,
+        "text": "author",
+        "start": 76,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 75,
+        "text": "Chinese",
+        "start": 68,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 67,
+        "text": "dissident",
+        "start": 58,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24367,
+    "created_at": "2024-03-27T12:06:21.635487Z",
+    "updated_at": "2024-03-27T12:06:21.635523Z",
+    "lead_time": 0.746
+  },
+  {
+    "text": "A hotel clerk was caught on video calling a black customer a monkey.",
+    "word": "clerk",
+    "id": 87218,
+    "label": [
+      {
+        "end": 13,
+        "text": "clerk",
+        "start": 8,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 67,
+        "text": "calling a black customer a monkey",
+        "start": 34,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 7,
+        "text": "hotel",
+        "start": 2,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24368,
+    "created_at": "2024-03-27T12:06:23.294014Z",
+    "updated_at": "2024-03-27T12:06:23.294049Z",
+    "lead_time": 0.666
+  },
+  {
+    "text": "WASHINGTON \u2014 New charges have been filed against a Washington, D.C, barbershop owner accused of posing as a Howard University student and sexually assaulting incapacitated teenagers.",
+    "word": "student",
+    "id": 87219,
+    "label": [
+      {
+        "end": 133,
+        "text": "student",
+        "start": 126,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 84,
+        "text": "barbershop owner",
+        "start": 68,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 157,
+        "text": "sexually assaulting",
+        "start": 138,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24369,
+    "created_at": "2024-03-27T12:06:27.733022Z",
+    "updated_at": "2024-03-27T12:06:27.733057Z",
+    "lead_time": 2.642
+  },
+  {
+    "text": "And I think the topic would need the eye of a forensic accountant.",
+    "word": "accountant",
+    "id": 87220,
+    "label": [
+      {
+        "end": 65,
+        "text": "accountant",
+        "start": 55,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24370,
+    "created_at": "2024-03-27T12:06:32.383860Z",
+    "updated_at": "2024-03-27T12:06:32.383895Z",
+    "lead_time": 3.289
+  },
+  {
+    "text": "If you get a low score, work with your Web developer or designer to improve it.",
+    "word": "designer",
+    "id": 87221,
+    "label": [
+      {
+        "end": 64,
+        "text": " designer",
+        "start": 55,
+        "labels": [
+          "N/A"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24371,
+    "created_at": "2024-03-27T12:06:35.258667Z",
+    "updated_at": "2024-03-27T12:06:35.258704Z",
+    "lead_time": 1.496
+  },
+  {
+    "text": "The former baker, from Alsager, Cheshire, recalls: \u201cI felt utterly humiliated.",
+    "word": "baker",
+    "id": 87222,
+    "label": [
+      {
+        "end": 77,
+        "text": "humiliated",
+        "start": 67,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 58,
+        "text": "I felt",
+        "start": 52,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 16,
+        "text": "baker",
+        "start": 11,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24372,
+    "created_at": "2024-03-27T12:06:38.730847Z",
+    "updated_at": "2024-04-12T14:53:16.523836Z",
+    "lead_time": 52.635
+  },
+  {
+    "text": "Casual sends a check-in to your friend or lover to see how they\u2019re doing or what they\u2019re up to.",
+    "word": "lover",
+    "id": 87223,
+    "label": [
+      {
+        "end": 47,
+        "text": "lover",
+        "start": 42,
+        "labels": [
+          "N/A"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24373,
+    "created_at": "2024-03-27T12:06:44.908434Z",
+    "updated_at": "2024-03-27T12:06:44.908469Z",
+    "lead_time": 4.401
+  },
+  {
+    "text": "For someone who is normally a business writer, that is very valuable.",
+    "word": "writer",
+    "id": 87224,
+    "label": [
+      {
+        "end": 45,
+        "text": "writer",
+        "start": 39,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 38,
+        "text": "business",
+        "start": 30,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24374,
+    "created_at": "2024-03-27T12:06:48.482839Z",
+    "updated_at": "2024-03-27T12:06:48.482876Z",
+    "lead_time": 2.472
+  },
+  {
+    "text": "And it is far from a sure political winner in the upcoming election.",
+    "word": "winner",
+    "id": 87225,
+    "label": [
+      {
+        "end": 42,
+        "text": "winner",
+        "start": 36,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 35,
+        "text": "political",
+        "start": 26,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24375,
+    "created_at": "2024-03-27T12:06:51.846886Z",
+    "updated_at": "2024-03-27T12:06:51.846923Z",
+    "lead_time": 1.786
+  },
+  {
+    "text": "It will also give the scotch maker a way to engage more deeply with a consumer who might otherwise just toss that bottle away and never be heard from again.",
+    "word": "consumer",
+    "id": 87226,
+    "label": [
+      {
+        "end": 78,
+        "text": "consumer",
+        "start": 70,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 34,
+        "text": "scotch maker",
+        "start": 22,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24376,
+    "created_at": "2024-03-27T12:06:54.567493Z",
+    "updated_at": "2024-03-27T12:06:54.567527Z",
+    "lead_time": 1.284
+  },
+  {
+    "text": "Who\u2019s the worst poet in Miami?",
+    "word": "poet",
+    "id": 87227,
+    "label": [
+      {
+        "end": 20,
+        "text": "poet",
+        "start": 16,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24377,
+    "created_at": "2024-03-27T12:06:57.068921Z",
+    "updated_at": "2024-03-27T12:06:57.068956Z",
+    "lead_time": 1.402
+  },
+  {
+    "text": "The author, 75, suffered severe, life-changing injuries after being stabbed several times ahead of a lecture at the Chautauqua Institution in New York.",
+    "word": "author",
+    "id": 87228,
+    "label": [
+      {
+        "end": 10,
+        "text": "author",
+        "start": 4,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 108,
+        "text": "lecture",
+        "start": 101,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 75,
+        "text": "stabbed",
+        "start": 68,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24378,
+    "created_at": "2024-03-27T12:07:03.613852Z",
+    "updated_at": "2024-03-27T12:07:03.613888Z",
+    "lead_time": 5.23
+  },
+  {
+    "text": "Promising comparable results to actually washing your hair with a rinse-out shampoo, we are pleased to report that this is as close to the real thing as you're going to get, noted our writer.",
+    "word": "writer",
+    "id": 87229,
+    "label": [
+      {
+        "end": 190,
+        "text": "writer",
+        "start": 184,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 58,
+        "text": "your hair",
+        "start": 49,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 83,
+        "text": "shampoo",
+        "start": 76,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 149,
+        "text": " real thing",
+        "start": 138,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 75,
+        "text": "rinse-out",
+        "start": 66,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24379,
+    "created_at": "2024-03-27T12:07:08.819733Z",
+    "updated_at": "2024-03-27T12:07:08.819771Z",
+    "lead_time": 2.348
+  },
+  {
+    "text": "The bridge's designer had recommended regular upkeep to remove rust, especially due to the corrosive effect of moist air from the nearby Ligurian Sea, and maintenance to counter the effect of pollution on concrete.",
+    "word": "designer",
+    "id": 87230,
+    "label": [
+      {
+        "end": 21,
+        "text": "designer",
+        "start": 13,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 12,
+        "text": "bridge's",
+        "start": 4,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 108,
+        "text": "corrosive effect ",
+        "start": 91,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 166,
+        "text": "maintenance",
+        "start": 155,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 37,
+        "text": "recommended",
+        "start": 26,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 52,
+        "text": "upkeep",
+        "start": 46,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 67,
+        "text": "rust",
+        "start": 63,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24380,
+    "created_at": "2024-03-27T12:07:12.052844Z",
+    "updated_at": "2024-03-27T12:07:12.052879Z",
+    "lead_time": 1.895
+  },
+  {
+    "text": "From bookkeeper to ski instructor.",
+    "word": "bookkeeper",
+    "id": 87231,
+    "label": [
+      {
+        "end": 33,
+        "text": "instructor",
+        "start": 23,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 15,
+        "text": "bookkeeper",
+        "start": 5,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24381,
+    "created_at": "2024-03-27T12:07:16.579305Z",
+    "updated_at": "2024-03-27T12:07:16.579341Z",
+    "lead_time": 3.317
+  },
+  {
+    "text": "The Newark, New Jersey, native was born in 1954 and adopted at age six months out of an orphanage by a township clerk and an auto parts owner.",
+    "word": "clerk",
+    "id": 87232,
+    "label": [
+      {
+        "end": 118,
+        "text": " clerk ",
+        "start": 111,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 141,
+        "text": "an auto parts owner",
+        "start": 122,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24382,
+    "created_at": "2024-03-27T12:07:22.435435Z",
+    "updated_at": "2024-03-27T12:07:22.435522Z",
+    "lead_time": 4.339
+  },
+  {
+    "text": "The 69-year-old native of Lyon, France, is the author of several works, mainly about patristics and Christology.",
+    "word": "author",
+    "id": 87233,
+    "label": [
+      {
+        "end": 53,
+        "text": "author",
+        "start": 47,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 95,
+        "text": "patristics",
+        "start": 85,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 111,
+        "text": "Christology",
+        "start": 100,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 38,
+        "text": "France",
+        "start": 32,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24383,
+    "created_at": "2024-03-27T12:07:25.182010Z",
+    "updated_at": "2024-03-27T12:07:25.182046Z",
+    "lead_time": 1.561
+  },
+  {
+    "text": "Only then did I realize the counselor was actually calling me fat - and making fun of me.",
+    "word": "counselor",
+    "id": 87234,
+    "label": [
+      {
+        "end": 65,
+        "text": "fat",
+        "start": 62,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 88,
+        "text": "making fun of me",
+        "start": 72,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 37,
+        "text": "counselor",
+        "start": 28,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 58,
+        "text": "calling",
+        "start": 51,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24384,
+    "created_at": "2024-03-27T12:07:28.685298Z",
+    "updated_at": "2024-03-27T12:07:28.685333Z",
+    "lead_time": 2.359
+  },
+  {
+    "text": "I'm not a dancer.",
+    "word": "dancer",
+    "id": 87235,
+    "label": [
+      {
+        "end": 16,
+        "text": "dancer",
+        "start": 10,
+        "labels": [
+          "N/A"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24385,
+    "created_at": "2024-03-27T12:07:50.050465Z",
+    "updated_at": "2024-03-27T12:07:50.050499Z",
+    "lead_time": 2.429
+  },
+  {
+    "text": "After a friend suggested she try it, Ann said, \"Sure!\"",
+    "word": "friend",
+    "id": 87236,
+    "label": [
+      {
+        "end": 14,
+        "text": " friend",
+        "start": 7,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 29,
+        "text": " she ",
+        "start": 24,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 40,
+        "text": " Ann",
+        "start": 36,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24386,
+    "created_at": "2024-03-27T12:07:56.661245Z",
+    "updated_at": "2024-03-27T12:07:56.661281Z",
+    "lead_time": 4.986
+  },
+  {
+    "text": "The reserve guard stepped up in the absence of fellow rookie guard Jordan Nixon, who injured her hamstring during warmups.",
+    "word": "guard",
+    "id": 87237,
+    "label": [
+      {
+        "end": 96,
+        "text": "her",
+        "start": 93,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 17,
+        "text": "guard",
+        "start": 12,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24387,
+    "created_at": "2024-03-27T12:08:04.033601Z",
+    "updated_at": "2024-03-27T12:08:04.033636Z",
+    "lead_time": 5.244
+  },
+  {
+    "text": "I am also the the chief executive officer of Global Women Network, a United Kingdom-based Non-governmental Organisation with roots in Nigeria.",
+    "word": "officer",
+    "id": 87238,
+    "label": [
+      {
+        "end": 41,
+        "text": "officer",
+        "start": 34,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 65,
+        "text": "Global Women Network",
+        "start": 45,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24388,
+    "created_at": "2024-03-27T12:08:10.247982Z",
+    "updated_at": "2024-03-27T12:08:10.248018Z",
+    "lead_time": 2.564
+  },
+  {
+    "text": "THE 2022 series of The Voice is coming to an end and a new star will be crowned the winner.",
+    "word": "winner",
+    "id": 87239,
+    "label": [
+      {
+        "end": 90,
+        "text": "winner",
+        "start": 84,
+        "labels": [
+          "N/A"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24389,
+    "created_at": "2024-03-27T12:08:14.284760Z",
+    "updated_at": "2024-03-27T12:08:14.284795Z",
+    "lead_time": 2.424
+  },
+  {
+    "text": "Another user commented, \"You guys are the best social media account in the country.\"",
+    "word": "user",
+    "id": 87240,
+    "label": [
+      {
+        "end": 12,
+        "text": "user",
+        "start": 8,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 28,
+        "text": "You",
+        "start": 25,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 46,
+        "text": "the best",
+        "start": 38,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24390,
+    "created_at": "2024-03-27T12:08:18.941627Z",
+    "updated_at": "2024-03-27T12:08:18.941663Z",
+    "lead_time": 2.945
+  },
+  {
+    "text": "In other lyrics, the vocal Donald Trump supporter says: \"Inflation's up like the minimum wage. So it's all the same. Not a damn thing changed.\"",
+    "word": "supporter",
+    "id": 87241,
+    "label": [
+      {
+        "end": 49,
+        "text": " supporter",
+        "start": 39,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 39,
+        "text": "Donald Trump",
+        "start": 27,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 127,
+        "text": "damn",
+        "start": 123,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24391,
+    "created_at": "2024-03-27T12:08:23.538562Z",
+    "updated_at": "2024-03-27T12:08:23.538600Z",
+    "lead_time": 2.018
+  },
+  {
+    "text": "It's a hard fall from grace for someone who worked hard as a lawyer and became a judge and is now a convicted felon, Oreskovich said.",
+    "word": "judge",
+    "id": 87242,
+    "label": [
+      {
+        "end": 115,
+        "text": "felon",
+        "start": 110,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 109,
+        "text": "convicted",
+        "start": 100,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 86,
+        "text": "judge",
+        "start": 81,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 67,
+        "text": " lawyer",
+        "start": 60,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 55,
+        "text": "worked hard",
+        "start": 44,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24392,
+    "created_at": "2024-03-27T12:08:30.561457Z",
+    "updated_at": "2024-03-27T12:08:30.561492Z",
+    "lead_time": 4.722
+  },
+  {
+    "text": "It's not the end of the world just yet - I like to think of myself as a fighter and I will keep fighting right until my last run.",
+    "word": "fighter",
+    "id": 87243,
+    "label": [
+      {
+        "end": 79,
+        "text": " fighter",
+        "start": 71,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 66,
+        "text": "like to think of myself",
+        "start": 43,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 128,
+        "text": "run",
+        "start": 125,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24393,
+    "created_at": "2024-03-27T12:08:33.958380Z",
+    "updated_at": "2024-03-27T12:08:33.958414Z",
+    "lead_time": 2.347
+  },
+  {
+    "text": "The trade is likely to involve a Russian arms dealer imprisoned in the US and a North American basketball player, recently detained in Russia.",
+    "word": "dealer",
+    "id": 87244,
+    "label": [
+      {
+        "end": 52,
+        "text": "dealer",
+        "start": 46,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 45,
+        "text": "arms",
+        "start": 41,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 63,
+        "text": "imprisoned",
+        "start": 53,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 40,
+        "text": "Russian",
+        "start": 33,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24395,
+    "created_at": "2024-03-27T12:08:37.190632Z",
+    "updated_at": "2024-03-27T12:08:37.190668Z",
+    "lead_time": 2.028
+  },
+  {
+    "text": "The soldier cries continuously.",
+    "word": "soldier",
+    "id": 87245,
+    "label": [
+      {
+        "end": 11,
+        "text": "soldier",
+        "start": 4,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 18,
+        "text": "cries ",
+        "start": 12,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 30,
+        "text": "continuously",
+        "start": 18,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24396,
+    "created_at": "2024-03-27T12:08:41.461270Z",
+    "updated_at": "2024-03-27T12:08:41.461308Z",
+    "lead_time": 2.884
+  },
+  {
+    "text": "After shooting the two officers, he tried to leave the apartment and was shot by the third officer.",
+    "word": "officer",
+    "id": 87246,
+    "label": [
+      {
+        "end": 31,
+        "text": "officers",
+        "start": 23,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 35,
+        "text": "he",
+        "start": 33,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 98,
+        "text": "officer",
+        "start": 91,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 77,
+        "text": "shot",
+        "start": 73,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24397,
+    "created_at": "2024-03-27T12:08:49.318323Z",
+    "updated_at": "2024-03-27T12:08:49.318359Z",
+    "lead_time": 6.571
+  },
+  {
+    "text": "The German boss is reportedly convinced that the teenager can become a hugely important player in the near future.",
+    "word": "player",
+    "id": 87247,
+    "label": [
+      {
+        "end": 57,
+        "text": "teenager",
+        "start": 49,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 94,
+        "text": "player",
+        "start": 88,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24398,
+    "created_at": "2024-03-27T12:08:54.626256Z",
+    "updated_at": "2024-03-27T12:08:54.626292Z",
+    "lead_time": 3.958
+  },
+  {
+    "text": "That's drilled into us by the manager, that we don't ever give up on the win.",
+    "word": "manager",
+    "id": 87248,
+    "label": [
+      {
+        "end": 37,
+        "text": "manager",
+        "start": 30,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 76,
+        "text": "win",
+        "start": 73,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24399,
+    "created_at": "2024-03-27T12:08:58.902202Z",
+    "updated_at": "2024-03-27T12:08:58.902236Z",
+    "lead_time": 2.824
+  },
+  {
+    "text": "When a contractor lies to a customer, we use the civil system to remedy the situation.",
+    "word": "contractor",
+    "id": 87249,
+    "label": [
+      {
+        "end": 17,
+        "text": "contractor",
+        "start": 7,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 61,
+        "text": "civil system",
+        "start": 49,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24400,
+    "created_at": "2024-03-27T12:09:04.245174Z",
+    "updated_at": "2024-03-27T12:09:04.245210Z",
+    "lead_time": 4.121
+  },
+  {
+    "text": "Secrecy, sex and sun: captain reveals life aboard superyachts",
+    "word": "captain",
+    "id": 87250,
+    "label": [
+      {
+        "end": 29,
+        "text": "captain",
+        "start": 22,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 61,
+        "text": "superyachts",
+        "start": 50,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 12,
+        "text": "sex",
+        "start": 9,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 7,
+        "text": "Secrecy",
+        "start": 0,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 20,
+        "text": "sun",
+        "start": 17,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24401,
+    "created_at": "2024-03-27T12:09:06.995870Z",
+    "updated_at": "2024-03-27T12:09:06.995907Z",
+    "lead_time": 1.232
+  },
+  {
+    "text": "In the video that has now amassed over 4.4million views, the farmer goes on to explain that cows eat a substance every day called TMR, short for totally mixed ration.",
+    "word": "farmer",
+    "id": 87251,
+    "label": [
+      {
+        "end": 67,
+        "text": "farmer",
+        "start": 61,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 96,
+        "text": "cows",
+        "start": 92,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24402,
+    "created_at": "2024-03-27T12:09:12.721200Z",
+    "updated_at": "2024-03-27T12:09:12.721236Z",
+    "lead_time": 3.944
+  },
+  {
+    "text": "As my colleague Mark Landler put it: \"In Switzerland, the Lucerne music festival canceled two symphony concerts featuring a Russian maestro.",
+    "word": "maestro",
+    "id": 87252,
+    "label": [
+      {
+        "end": 139,
+        "text": "maestro",
+        "start": 132,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 131,
+        "text": "Russian",
+        "start": 124,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24403,
+    "created_at": "2024-03-27T12:09:17.628295Z",
+    "updated_at": "2024-03-27T12:09:17.628330Z",
+    "lead_time": 3.259
+  },
+  {
+    "text": "As any construction worker will tell you, digging is hard work and tea breaks are key.",
+    "word": "construction worker",
+    "id": 87253,
+    "label": [
+      {
+        "end": 26,
+        "text": "construction worker",
+        "start": 7,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 49,
+        "text": "digging",
+        "start": 42,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24404,
+    "created_at": "2024-03-27T12:09:23.599681Z",
+    "updated_at": "2024-03-27T12:09:23.599715Z",
+    "lead_time": 4.188
+  },
+  {
+    "text": "The irony of this metaphor being solemnly valorised by the boss of a powerful tech corporation seems to be lost on the industry.",
+    "word": "boss",
+    "id": 87254,
+    "label": [
+      {
+        "end": 63,
+        "text": "boss",
+        "start": 59,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 77,
+        "text": "powerful",
+        "start": 69,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 82,
+        "text": "tech",
+        "start": 78,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 94,
+        "text": "corporation",
+        "start": 83,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 26,
+        "text": "metaphor",
+        "start": 18,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24405,
+    "created_at": "2024-03-27T12:09:26.382198Z",
+    "updated_at": "2024-03-27T12:09:26.382239Z",
+    "lead_time": 1.572
+  },
+  {
+    "text": "Police are appealing for help to locate a ute driver who they believe picked up Everleigh and helped her to leave the area.",
+    "word": "driver",
+    "id": 87255,
+    "label": [
+      {
+        "end": 52,
+        "text": "driver",
+        "start": 46,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 45,
+        "text": "ute",
+        "start": 42,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 89,
+        "text": "Everleigh",
+        "start": 80,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24406,
+    "created_at": "2024-03-27T12:09:30.625841Z",
+    "updated_at": "2024-03-27T12:09:30.625877Z",
+    "lead_time": 1.731
+  },
+  {
+    "text": "But there aren't any checks to prevent an unqualified idiot from buying a bin and installing it.",
+    "word": "idiot",
+    "id": 87256,
+    "label": [
+      {
+        "end": 59,
+        "text": "idiot",
+        "start": 54,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 77,
+        "text": "bin",
+        "start": 74,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24407,
+    "created_at": "2024-03-27T12:09:33.283486Z",
+    "updated_at": "2024-03-27T12:09:33.283522Z",
+    "lead_time": 1.454
+  },
+  {
+    "text": "I always call myself a cook.",
+    "word": "cook",
+    "id": 87257,
+    "label": [
+      {
+        "end": 27,
+        "text": "cook",
+        "start": 23,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 8,
+        "text": "always",
+        "start": 2,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24408,
+    "created_at": "2024-03-27T12:09:37.897907Z",
+    "updated_at": "2024-03-27T12:09:37.897943Z",
+    "lead_time": 3.412
+  },
+  {
+    "text": "It appears the filmmaker is going to be making a much more elegiac and sobering gangster movie this time around.",
+    "word": "filmmaker",
+    "id": 87258,
+    "label": [
+      {
+        "end": 24,
+        "text": "filmmaker",
+        "start": 15,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 88,
+        "text": "gangster",
+        "start": 80,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 94,
+        "text": "movie",
+        "start": 89,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 66,
+        "text": "elegiac",
+        "start": 59,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24409,
+    "created_at": "2024-03-27T12:09:42.730644Z",
+    "updated_at": "2024-03-27T12:09:42.730679Z",
+    "lead_time": 3.673
+  },
+  {
+    "text": "At that point, you'll attract an admirer who is worthy of your affection.",
+    "word": "admirer",
+    "id": 87259,
+    "label": [
+      {
+        "end": 40,
+        "text": "admirer",
+        "start": 33,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 29,
+        "text": "attract",
+        "start": 22,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 54,
+        "text": "worthy",
+        "start": 48,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 72,
+        "text": "your affection",
+        "start": 58,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24410,
+    "created_at": "2024-03-27T12:09:45.599914Z",
+    "updated_at": "2024-03-27T12:09:45.599949Z",
+    "lead_time": 1.605
+  },
+  {
+    "text": "I cant even deal with this, one follower wrote alongside two fire emojis, while another wrote: \"Love the hair x.\"",
+    "word": "follower",
+    "id": 87260,
+    "label": [
+      {
+        "end": 41,
+        "text": "follower ",
+        "start": 32,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 109,
+        "text": "hair",
+        "start": 105,
+        "labels": [
+          "female"
+        ]
+      },
+      {
+        "end": 72,
+        "text": "fire emojis",
+        "start": 61,
+        "labels": [
+          "female"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24411,
+    "created_at": "2024-03-27T12:09:50.126951Z",
+    "updated_at": "2024-03-27T12:09:50.126986Z",
+    "lead_time": 2.62
+  },
+  {
+    "text": "The wine salesperson on the floor might actually have tasted the wines and be able to point out intelligently which ones are fit for tonight\u2019s dinner and which ones should be socked away.",
+    "word": "salesperson",
+    "id": 87261,
+    "label": [
+      {
+        "end": 20,
+        "text": "salesperson",
+        "start": 9,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 8,
+        "text": "wine",
+        "start": 4,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 70,
+        "text": "have tasted the wines",
+        "start": 49,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24412,
+    "created_at": "2024-03-27T12:09:52.563198Z",
+    "updated_at": "2024-03-27T12:09:52.563234Z",
+    "lead_time": 1.397
+  },
+  {
+    "text": "In the video, one of the Marines looked down at the bodies and quipped, \"Have a good day, buddy.\"",
+    "word": "buddy",
+    "id": 87262,
+    "label": [
+      {
+        "end": 95,
+        "text": "buddy",
+        "start": 90,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 32,
+        "text": "Marines",
+        "start": 25,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 58,
+        "text": "bodies",
+        "start": 52,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24413,
+    "created_at": "2024-03-27T12:09:54.742170Z",
+    "updated_at": "2024-03-27T12:09:54.742206Z",
+    "lead_time": 1.01
+  },
+  {
+    "text": "There will be a roughly 90-minute inspection after the race and the winner will not be deemed official until the process is completed.",
+    "word": "winner",
+    "id": 87263,
+    "label": [
+      {
+        "end": 60,
+        "text": "race ",
+        "start": 55,
+        "labels": [
+          "male"
+        ]
+      },
+      {
+        "end": 74,
+        "text": "winner",
+        "start": 68,
+        "labels": [
+          "male"
+        ]
+      }
+    ],
+    "annotator": 389,
+    "annotation_id": 24353,
+    "created_at": "2024-03-27T12:05:14.528228Z",
+    "updated_at": "2024-03-27T12:05:14.528263Z",
+    "lead_time": 9.181
+  }
+]
