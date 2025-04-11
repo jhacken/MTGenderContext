@@ -1,0 +1,9 @@
+Information on scripts in this folder:
+
+- Script to analyse annotations: analyse_annotations.py
+- Script to part-of-speech tag annotated labels: analyse_POS_labels.py
+- Script to compute dependency distances between annotated trigger words and target word: average_dependencies.py
+- Script to calculate inter-annotator agreement between all annotators (pairwise and on average): IAA_cohenKappa.py
+- Script to calculate inter-annotator agreement between all annotators and the MT (pairwise and on average): IAA_cohenKappa_with_MT.py
+- Script to calculate inter-annotator agreement between all annotators (on average): IAA_fleissKappa.py
+- Script to calculate inter-annotator agreement between all annotators and the MT (on average): IAA_fleissKappa_with_MT.py
