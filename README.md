@@ -7,8 +7,8 @@ This paper investigates human gender bias and its relation to bias in machine tr
 This repository includes:
 - list of ~150 seed words used to filter data, including their gender-inflection (female, male, neutral)
 - dataset of 60 gender-ambiguous natural sentences (English)
-- German DeepL translations of dataset [to-do]
+- German DeepL translations of dataset
 - manual annotations conducted by 20 annotators
-- scripts for annotation anaylsis [to-do]
-- scripts for IAA [to-do]
+- scripts for annotation anaylsis
+- scripts for IAA
 - reference to [scripts for pygamma](https://github.com/TomMoeras/parallel-pygamma), compiled for this paper for a use case of a large number of annotators
